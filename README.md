@@ -4,8 +4,8 @@
 HackerRank asked two questions for it's intermediate SQL certification test. Here I will add Questions as well as the solution for the same.
 
 ### SQL Questions
-* [Invoice Per Country](#https://github.com/mehrotrasahil/-hackerrank-SQL-intermediate-skills-certification-test-solution/blob/main/invoice_per_country.sql)
-* [Invoice Spending](#https://github.com/mehrotrasahil/-hackerrank-SQL-intermediate-skills-certification-test-solution/blob/main/invoice_spending.sql)
+* [Invoice Per Country](https://github.com/mehrotrasahil/-hackerrank-SQL-intermediate-skills-certification-test-solution/blob/main/invoice_per_country.sql)
+* [Invoice Spending](https://github.com/mehrotrasahil/-hackerrank-SQL-intermediate-skills-certification-test-solution/blob/main/invoice_spending.sql)
 
 
 ### New Questions
